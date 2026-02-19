@@ -1,4 +1,4 @@
-# ![System Architecture](../assets/architecture.jpeg)
+# ![System Architecture](../assets/archetecture.jpeg)
 
 DeepTrust follows a modular and secure architecture designed for offline AI-based fraud detection.
 
